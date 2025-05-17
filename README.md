@@ -1,5 +1,22 @@
 # ChurnHackathon
 
+## Notice of Ownership and Use Restrictions
+
+This repository contains the original code and work submitted by **Lara Masad** as part of the **Deloitte Experience Analytics Hackathon 2023**, where it was awarded **2nd place** among 13 competing teams for model performance and interpretability.
+
+Please note:
+- This project is the sole intellectual property of Lara Masad.
+- Any reuse, redistribution, or copying of this code is not permitted without prior written consent.
+
+> Note: This project was originally developed and submitted in **September 2023**.  
+> The LICENSE and this updated README were added later to protect the work and clarify authorship.
+
+For inquiries or educational use, feel free to contact me via [LinkedIn](https://www.linkedin.com/in/laramasad/).
+
+---
+
+# ChurnHackathon
+
 This repository contains the machine learning solution I developed and submitted for the **Deloitte Experience Analytics Hackathon 2023**, where our team won **2nd place** out of 13 teams for the quality, performance, and interpretability of the model.
 
 ---
